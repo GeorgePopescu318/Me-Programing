@@ -1,0 +1,2 @@
+# ***Sum of 0 and 1***
+An array that only contains 0 and 1, 1 before 0, determine the sum of this array.
